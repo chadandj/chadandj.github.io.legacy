@@ -1,0 +1,113 @@
+/* Option */
+.pb-0 {
+	padding-bottom: 0px;
+}
+
+.mb-20 {
+	margin-bottom: 20px;
+}
+
+.poing-color {
+	color: #c91b3c !important;
+    font-weight: bold;
+}
+
+.nav-img {
+	width: 45px;
+}
+
+.slide-1 {
+	background-image: url('../images/head/home_1.jpg');
+}
+
+.slide-2 {
+	background-image: url('../images/head/home_2.jpg');
+}
+
+.slide-3 {
+	background-image: url('../images/head/home_3.jpg');
+}
+
+.about-top {
+	background-image: url('../images/head/about_top.jpg');
+}
+
+.menu-top {
+	background-image: url('../images/head/menu_top.jpg');
+}
+
+.gallery-top {
+	background-image: url('../images/head/gallery_top.jpg');
+}
+
+.reser-top {
+	background-image: url('../images/head/reser_top.jpg');
+}
+
+/* About */
+.about-text {
+	color: #333;
+	font-size: 14px;
+	text-align: center;
+}
+
+/* Menu */
+.menu-module {
+	text-align: center;
+}
+
+.menu-text {
+	color: #333;
+	font-size: 14px;
+	margin-top: 20px;
+}
+
+.menu-btn {
+	color: #333;
+	padding: 9px 60px; 
+	font-size: 14px;
+	border: 1px solid #333;
+}
+
+/* Gallery */
+.gallery-btn {
+	border: none;
+	background: none;
+}
+
+/* Reservation */
+.reser-title {
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.reser-text {
+	color: #333;
+	font-size: 14px;
+}
+
+.reser-btn {
+	color: #fff;
+	padding: 10px 30px;
+	font-size: 14px;
+	font-weight: bold;
+	background-color: #c91b3c;
+}
+
+/* Contact */
+.map-size {
+	width: 100%;
+	height: 100%;
+}
+
+.contact-nav {
+	padding: 0px;
+	background-color: #000;
+}
+
+/* Footer */
+.footer-text {
+	font-size: 12px;
+	text-transform: uppercase;
+}
