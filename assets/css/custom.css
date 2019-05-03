@@ -44,6 +44,10 @@
 	background-image: url('../images/head/reser_top.jpg');
 }
 
+.event-top {
+	background-image: url('../images/head/event_top.jpg');
+}
+
 /* About */
 .about-text {
 	color: #333;
@@ -93,6 +97,18 @@
 	font-size: 14px;
 	font-weight: bold;
 	background-color: #c91b3c;
+}
+
+/* Event */
+.event-title {
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.event-text {
+	color: #333;
+	font-size: 14px;
 }
 
 /* Contact */
